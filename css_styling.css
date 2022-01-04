@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/080103_hakkai_fuji.jpg/1280px-080103_hakkai_fuji.jpg");
+}
+p{
+    color:rgb(255, 94, 0)
+}
+
+.round{
+    border-radius: 100px;
+}
+
+.css-effect1{
+    box-shadow: 4px 4px rgb(141, 58, 189);
+}
+
+.boder{
+    border-style: dotted;
+}
+.boder1{
+    border-style: dashed;
+}
+.bodercolor{
+    border-width: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+.magic:hover{
+    box-shadow:rgb(52, 156, 156) 5px 1px;
+}
+
+.bgimage{
+    background-image: url("https://i.pcmag.com/imagery/roundups/02naaOkVLe7DIiejFUyDPJp-31.fit_lim.size_1050x.jpg");
+}
+.bgcolor{
+    background-color: rgb(72, 219, 187);
+}
